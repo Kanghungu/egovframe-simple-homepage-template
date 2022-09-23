@@ -1,5 +1,10 @@
 # egovframe-simple-homepage-template
 Simple Homepage Template
 
-## Check list
-- Add license info
+## Overview
+
+## How to run
+
+## Project Structure
+
+## Contribution
